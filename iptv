@@ -1,5 +1,3 @@
-#EXTM3U
-#EXTINF:-1,---TN-CH----------------------
 http://149.202.77.226:7500/live/hatab/hatab/884.ts
 #EXTINF:-1,Tunisia1
 http://149.202.77.226:7500/live/hatab/hatab/368.ts
